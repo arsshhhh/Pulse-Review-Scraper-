@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Excellent collaboration platform",
+    "review": "Slack has made team communication much faster and more transparent. Channel-based messaging works very well.",
+    "date": "2024-03-18",
+    "rating": "5",
+    "reviewer": "Verified User"
+  },
+  {
+    "title": "Good tool but notifications need improvement",
+    "review": "Overall experience is positive, but notification overload can become distracting if not configured properly.",
+    "date": "2024-04-02",
+    "rating": "4",
+    "reviewer": "Product Manager"
+  },
+  {
+    "title": "Reliable for remote teams",
+    "review": "Slack integrates nicely with other tools and helps remote teams stay aligned.",
+    "date": "2024-05-11",
+    "rating": "4",
+    "reviewer": "Engineering Lead"
+  }
+]
